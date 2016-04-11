@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListClickSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="lv_greeting">
+        <item>Good Morning!</item>
+        <item>Hello!</item>
+        <item>Good Night!</item>
+    </string-array>
+
+</resources>

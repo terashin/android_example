@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutSampleApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- add -->
+    <string name="tv_viewsample">VieW Sample</string>
+    <string name="cb_sample1">Check Box1</string>
+    <string name="cb_sample2">Check Box2</string>
+    <string name="rb_sample1">Radio Button1</string>
+    <string name="rb_sample2">Radio Button2</string>
+    <string name="bt_sample1">Save</string>
+
+    <string-array name="lv_sample1">
+        <item>a i u e o</item>
+        <item>ka ki ku ke ko</item>
+        <item>sa si su se so</item>
+    </string-array>
+
+</resources>
