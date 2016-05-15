@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tv_title">Order Form</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_birthday">BirthDay</string>
+    <string name="tv_month">Month</string>
+    <string name="tv_day">Day</string>
+    <string name="tv_gender">Gender</string>
+    <string name="tv_male">Male</string>
+    <string name="tv_female">Female</string>
+    <string name="tv_item">Item</string>
+    <string name="tv_number">OrderNumber</string>
+    <string name="tv_apple">Apple</string>
+    <string name="tv_orange">Orange</string>
+    <string name="tv_peach">Peach</string>
+    <string name="tv_hyphen">------</string>
+    <string name="bt_send">Send</string>
+    <string name="bt_back">Back</string>
+
+    <string-array name="month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apple</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="iv_apple">Apple</string>
+    <string name="tv_fruit">-------</string>
+    <string name="bt_back">Back</string>
+
+</resources>

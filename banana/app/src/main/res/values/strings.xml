@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banana</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="iv_banana">Banana</string>
+    <string name="tv_fruit">-------</string>
+    <string name="bt_back">Back</string>
+
+</resources>

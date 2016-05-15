@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StartServiceSample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tv_setting">Set Time</string>
+    <string name="tv_minute">M</string>
+    <string name="tv_start">Start Service</string>
+</resources>
